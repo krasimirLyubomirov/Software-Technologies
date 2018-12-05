@@ -1,0 +1,12 @@
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\bin\Debug\netcoreapp2.0\AspBlog.deps.json
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\bin\Debug\netcoreapp2.0\AspBlog.runtimeconfig.json
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\bin\Debug\netcoreapp2.0\AspBlog.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\bin\Debug\netcoreapp2.0\AspBlog.dll
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\AspBlog.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\AspBlog.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\AspBlog.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\AspBlog.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\bin\Debug\netcoreapp2.0\AspBlog.pdb
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\AspBlog.dll
+D:\Programming\Visual Studio\project\AspBlog\AspBlog\obj\Debug\netcoreapp2.0\AspBlog.pdb
