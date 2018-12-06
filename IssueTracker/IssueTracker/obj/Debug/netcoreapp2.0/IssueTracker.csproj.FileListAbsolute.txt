@@ -1,0 +1,11 @@
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+D:\Programming\Visual Studio\project\dogshop\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
