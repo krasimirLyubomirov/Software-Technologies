@@ -1,0 +1,33 @@
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojResolveAssemblyReference.cache
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Projects\ASPdotNet\EXAMPREP\ProjectRider\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojResolveAssemblyReference.cache
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Projects\ASPdotNet\EXAMPREP\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojAssemblyReference.cache
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+D:\Programming\Visual Studio\project\ProjectRider\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb
